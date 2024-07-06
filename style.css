@@ -1,0 +1,22 @@
+body{
+    background-image: url('https://kartinki.pics/uploads/posts/2021-04/1617602223_28-p-chernii-fon-gradient-28.jpg');
+	background-repeat: no-repeat;
+    background-size: cover;
+    
+ }
+.logo{
+	margin-top:25px;
+	height:150px;
+	weight:150px}
+.logo:hover{animation: blink 2s ease infinite}	
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}	
